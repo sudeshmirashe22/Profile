@@ -3,10 +3,27 @@
 <h2>👨‍💻 Work Experience:</h2>
 
 - <b> Network Engineer - Dhani Info Solutions (Feb 2024 - Till Now)</b>
-  - [Maintenance and administration for Client AIRBNB of Routing Protocols such as eBGP and iBGP]
-  - [Monitoring network operations and performance using Solarwinds NPM tool]
-  - [Diagnosing and effectively resolving network issues and ensuring smooth and reliable network operations]
-  - [Creation and modifying the incidence tickets using Service Now and Documenting incidents and their resolutions]
+  - Maintenance and administration for Client AIRBNB of Routing Protocols such as eBGP and iBGP
+  - Monitoring network operations and performance using Solarwinds NPM tool
+  - Diagnosing and effectively resolving network issues and ensuring smooth and reliable network operations
+  - Creation and modifying the incidence tickets using Service Now and Documenting incidents and their resolutions
+- <b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024)</b>
+  - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives
+  - Train Handling and Controlling, Railway Signaling & Communication
+  - Mechanical & Electrical Troubleshooting
+- <b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b>
+  - Using Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc
+  - Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments
+  - Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE
+- <b> Java Developer - Softtronix IT Solution (May 2018 – Nov 2020)</b>
+  - Worked as backend and frontend developer for Web Applications
+  - Developed and optimized Java-based applications, implementing Object-Oriented Programming (OOP) principles and design patterns to enhance performance and scalability
+  - Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL
+- <b> CNC Operator - Jayaswal Neco Industries Lmt. (Sep 2016 – April 2018)</b>
+  - Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards
+  - Conducted quality control checks using calipers, micrometers, and gauges, verifying tolerances and making real-time adjustments to meet specifications
+ 
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
