@@ -1,5 +1,10 @@
 <h1>Hi, I'm Sudesh! <br/><a href="https://github.com/sudeshmirashe22/Profile">Network Engineer</a>, <a href="https://www.linkedin.com/in/sudesh-mirashe">Cybersecurity Enthusiast</a>
 
+<h2>👨‍💻 Certificates:</h2>
+
+- <b> Network Engineer - Dhani Info Solutions (Feb 2024 - Till Now)</b>
+  - Maintenance and administration for Client AIRBNB of Routing Protocols such as 
+
 <h2>👨‍💻 Work Experience:</h2>
 
 - <b> Network Engineer - Dhani Info Solutions (Feb 2024 - Till Now)</b>
@@ -23,7 +28,13 @@
   - Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards
   - Conducted quality control checks using calipers, micrometers, and gauges, verifying tolerances and making real-time adjustments to meet specifications
  
+<h2>👨‍💻 Education:</h2>
 
+- <b> BACHELOR OF MECHANICAL ENGINEER </b>
+  - BDCOE Nagpur University (2009 - 2013)
+
+
+  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
