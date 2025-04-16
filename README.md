@@ -1,8 +1,12 @@
 <h1>Hi, I'm Sudesh! <br/><a href="https://github.com/sudeshmirashe22/Profile">Network Engineer</a>, <a href="https://www.linkedin.com/in/sudesh-mirashe">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 Certificates:</h2>
+<h2>👨‍💻 Certificates (from Simplilearn):</h2>
 
-- <b> Network Engineer - Dhani Info Solutions (Feb 2024 - Till Now)</b>
+- <b> CEH v13- Certified Ethical Hacker </b>
+  - Maintenance and administration for Client AIRBNB of Routing Protocols such as
+- <b> CompTIA Security+ 701 </b>
+  - Maintenance and administration for Client AIRBNB of Routing Protocols such as
+- <b> CCNA 200-301 </b>
   - Maintenance and administration for Client AIRBNB of Routing Protocols such as 
 
 <h2>👨‍💻 Work Experience:</h2>
