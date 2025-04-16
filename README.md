@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sudesh! <br/><a href="https://github.com/sudeshmirashe22/Profile">Network Engineer</a>, <a href="https://www.linkedin.com/in/sudesh-mirashe">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 Certificates (from Simplilearn):</h2>
+<h2>👨‍💻 Certificate (Simplilearn):</h2>
 
 - <b> CEH v13- Certified Ethical Hacker </b>
   - Maintenance and administration for Client AIRBNB of Routing Protocols such as
