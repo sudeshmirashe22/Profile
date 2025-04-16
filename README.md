@@ -1,4 +1,14 @@
-<h1>Hi, I'm Sudesh! <br/><a href="https://github.com/sudeshmirashe22">Network Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sudesh! <br/><a href="https://github.com/sudeshmirashe22/Profile">Network Engineer</a>, <a href="https://www.linkedin.com/in/sudesh-mirashe">Cybersecurity Enthusiast</a>
+
+<h2>👨‍💻 Work Experience:</h2>
+
+- <b> Network Engineer - Dhani Info Solutions (Feb 2024 - Till Now)</b>
+  - [Maintenance and administration for Client AIRBNB of Routing Protocols such as eBGP and iBGP]
+  - [Monitoring network operations and performance using Solarwinds NPM tool]
+  - [Diagnosing and effectively resolving network issues and ensuring smooth and reliable network operations]
+  - [Creation and modifying the incidence tickets using Service Now and Documenting incidents and their resolutions]
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
