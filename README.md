@@ -5,14 +5,14 @@
 <b> Results-driven Software Developer with 6+ years of diverse experience in IT, spanning backend development, API integration. Transitioned into a Python-focused role, leveraging Django for web applications and secure authentication workflows. Passionate about building scalable software, adept at blending hands-on engineering skills with coding expertise across Python, PHP, and Java. </b>
 
 <h2>🤖 Skills</h2>
-  - Python (Core, OOPs, Functional), Docker, CI/CD pipeline
-  - Python Frameworks: Django, Flask, FastAPI
-  - Apigee Development, Google Anthos
-  - Frontend: PHP, Laravel, HTML, CSS3, Bootstrap
-  - Databases: MySQL, PostgreSQL, SQLite, Django ORM/SQLAlchemy
+  - Python (Core, OOPs, Functional), Docker, CI/CD pipeline <br/>
+  - Python Frameworks: Django, Flask, FastAPI <br/>
+  - Apigee Development, Google Anthos <br/>
+  - Frontend: PHP, Laravel, HTML, CSS3, Bootstrap <br/>
+  - Databases: MySQL, PostgreSQL, SQLite, Django ORM/SQLAlchemy <br/>
   
 <h2>💼 Work Highlights</h2>
-- <b> Python Full Stack Developer </b>
+- <b> Python Full Stack Developer </b> <br/>
   o Project: E-commerce Website
     - Worked on eCommerce platform using Python (Django) for a seamless shopping experience.
     - Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2.
