@@ -28,7 +28,7 @@
     - Train Handling and Controlling, Railway Signaling & Communication. <br/>
     - Mechanical & Electrical Troubleshooting. <br/>
     
-<b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b></b>
+<b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b><br/>
   • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank
     &nbsp;- Using Python, Java and Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc. <br/>
   • Project: Migration of Banking APIs from OSB to Google Anthos. Client: ICICI Bank <br/>
@@ -36,18 +36,18 @@
     &nbsp;- Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments. <br/>
     &nbsp;- Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE. <br/>
 
-<b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b>
+<b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b><br/>
   • Project: ShopTrade Application for shop keepers to sell their product, maintain their products information and can maintain logs for the credits of the customers. <br/>
-    - Worked as backend and frontend developer for Web Applications. Using Java, JavaScript, Spring Boot, Spring ORM, Spring MVC, JSP <br/>
-    - Creating user registration module, product module, creating functionality with database connectivity and generating reports. <br/>
-    - Developed and optimized Java-based applications, implementing Object-Oriented Programming (OOP) principles and design patterns to enhance performance and scalability. <br/>
+    &nbsp;- Worked as backend and frontend developer for Web Applications. Using Java, JavaScript, Spring Boot, Spring ORM, Spring MVC, JSP <br/>
+    &nbsp;- Creating user registration module, product module, creating functionality with database connectivity and generating reports. <br/>
+    &nbsp;- Developed and optimized Java-based applications, implementing Object-Oriented Programming (OOP) principles and design patterns to enhance performance and scalability. <br/>
   • Project: MyShoppingCart an e-commerce website focused on wide range of product categories such as consumer electronics, fashion, home essentials and Ayurveda products. <br/>
-    - Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL. <br/>
-    - Creating master pages, creating login and registration module, creating functionality with database connectivity. <br/>
+    &nbsp;- Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL. <br/>
+    &nbsp;- Creating master pages, creating login and registration module, creating functionality with database connectivity. <br/>
 
-- <b> CNC Machine Operator - Jayaswal Neco Industries Lmt. (Sep 2018 – Nov 2020)</b>
-  - Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards.
-  - Conducted quality control checks using calipers, micrometers, and gauges, verifying tolerances and making real-time adjustments to meet specifications.
+- <b> CNC Machine Operator - Jayaswal Neco Industries Lmt. (Sep 2018 – Nov 2020)</b><br/>
+  &nbsp;- Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards.
+  &nbsp;- Conducted quality control checks using calipers, micrometers, and gauges, verifying tolerances and making real-time adjustments to meet specifications.
 
 <h2>👨‍💻 Education:</h2>
   • BE Mechanical Engineering - BDCOE Nagpur University (2009 - 2013)
