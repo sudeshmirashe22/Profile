@@ -13,7 +13,7 @@
  
 <h2>💼 Work Highlights</h2>
 <b>🔧 Python Full Stack Developer </b> <br/>
-    • Project: E-commerce Website <a href = ""> Click Here</a><br/>
+    • Project: E-commerce Website <a href = "https://github.com/sudeshmirashe22/ecommerce-site-using-Django"> Click Here</a><br/>
       &nbsp;&nbsp;- Worked on eCommerce platform using Python (Django) for a seamless shopping experience. <br/>
       &nbsp;&nbsp;- Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2. <br/>
       &nbsp;&nbsp;- Used PostgreSQL with Django ORM for relational data modeling and complex queries. <br/>
