@@ -11,7 +11,7 @@
   -	Databases: MySQL, PostgreSQL, SQLite, Django ORM/SQLAlchemy
   
 <h2>💼 Work Highlights</h2>
-- <b> Python Full Stack Developer</b>
+- <b> Python Full Stack Developer </b>
   o Project: E-commerce Website
     -	Worked on eCommerce platform using Python (Django) for a seamless shopping experience.
     -	Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2.
