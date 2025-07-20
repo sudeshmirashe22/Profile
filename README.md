@@ -23,7 +23,7 @@
       &nbsp;- Building functionalities like user following and post management. <br/>
       &nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/><br/> 
 
-<b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b></b> 
+<b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b><br/> 
     - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
     - Train Handling and Controlling, Railway Signaling & Communication. <br/>
     - Mechanical & Electrical Troubleshooting. <br/>
