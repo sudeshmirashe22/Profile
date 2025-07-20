@@ -10,13 +10,7 @@
   - Apigee Development, Google Anthos <br/>
   - Frontend: PHP, Laravel, HTML, CSS3, Bootstrap <br/>
   - Databases: MySQL, PostgreSQL, SQLite, Django ORM/SQLAlchemy <br/>
-
-  <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
-  
+ 
 <h2>💼 Work Highlights</h2>
 <b> Python Full Stack Developer </b> <br/>
     • Project: E-commerce Website <br/>
@@ -27,7 +21,7 @@
       &nbsp;- Developed a full-stack Complaint Management Web Application, enabled residents from rural villages to submit complaints related to electricity, water, roads, and transportation. <br/>
     • Project: Laravel PHP web app framework by building a fully-functional Medium clone. <br/>
       &nbsp;- Building functionalities like user following and post management. <br/>
-      &nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/> 
+      &nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/><br/> 
 
 <b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b>
     - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
