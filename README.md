@@ -28,7 +28,7 @@
     - Train Handling and Controlling, Railway Signaling & Communication. <br/>
     - Mechanical & Electrical Troubleshooting. <br/>
     
-- <b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b>
+<b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b>
   • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank
     - Using Python, Java and Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc. <br/>
   • Project: Migration of Banking APIs from OSB to Google Anthos. Client: ICICI Bank <br/>
@@ -36,7 +36,7 @@
     - Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments. <br/>
     - Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE. <br/>
 
-- <b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b> <br/>
+<b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b>
   • Project: ShopTrade Application for shop keepers to sell their product, maintain their products information and can maintain logs for the credits of the customers. <br/>
     - Worked as backend and frontend developer for Web Applications. Using Java, JavaScript, Spring Boot, Spring ORM, Spring MVC, JSP <br/>
     - Creating user registration module, product module, creating functionality with database connectivity and generating reports. <br/>
