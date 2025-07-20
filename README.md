@@ -19,7 +19,7 @@
       &nbsp;&nbsp;- Used PostgreSQL with Django ORM for relational data modeling and complex queries. <br/>
     • Project: Complaint Management Web Application <br/>
       &nbsp;&nbsp;- Developed a full-stack Complaint Management Web Application, enabled residents from rural villages to submit complaints related to electricity, water, roads, and transportation. <br/>
-    • Project: Laravel PHP web app framework by building a fully-functional Medium clone. <br/>
+    • Project: Laravel PHP web app framework by building a fully-functional Medium clone. <a href = "https://github.com/sudeshmirashe22/Medium-clone-using-Laravel/tree/main"> Click Here</a><br/>
       &nbsp;&nbsp;- Building functionalities like user following and post management. <br/>
       &nbsp;&nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/><br/> 
 
