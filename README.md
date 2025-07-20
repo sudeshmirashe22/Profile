@@ -23,18 +23,18 @@
       &nbsp;- Building functionalities like user following and post management. <br/>
       &nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/><br/> 
 
-<b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b>
+<b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b></b> 
     - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
     - Train Handling and Controlling, Railway Signaling & Communication. <br/>
     - Mechanical & Electrical Troubleshooting. <br/>
     
-<b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b>
+<b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b></b>
   • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank
-    - Using Python, Java and Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc. <br/>
+    &nbsp;- Using Python, Java and Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc. <br/>
   • Project: Migration of Banking APIs from OSB to Google Anthos. Client: ICICI Bank <br/>
-    - Working as Application Owner for Google Anthos and conducting migrations of Banking APIs. <br/>
-    - Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments. <br/>
-    - Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE. <br/>
+    &nbsp;- Working as Application Owner for Google Anthos and conducting migrations of Banking APIs. <br/>
+    &nbsp;- Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments. <br/>
+    &nbsp;- Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE. <br/>
 
 <b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b>
   • Project: ShopTrade Application for shop keepers to sell their product, maintain their products information and can maintain logs for the credits of the customers. <br/>
