@@ -13,37 +13,37 @@
   
 <h2>💼 Work Highlights</h2>
 - <b> Python Full Stack Developer </b> <br/>
-  o Project: E-commerce Website
-    - Worked on eCommerce platform using Python (Django) for a seamless shopping experience.
-    - Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2.
-    - Used PostgreSQL with Django ORM for relational data modeling and complex queries.
-  o Project: Complaint Management Web Application
-    - Developed a full-stack Complaint Management Web Application, enabled residents from rural villages to submit complaints related to electricity, water, roads, and transportation.
-  o Project: Laravel PHP web app framework by building a fully-functional Medium clone.
-    - Building functionalities like user following and post management. 
-    - Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features
+  o Project: E-commerce Website <br/>
+    - Worked on eCommerce platform using Python (Django) for a seamless shopping experience. <br/>
+    - Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2. <br/>
+    - Used PostgreSQL with Django ORM for relational data modeling and complex queries. <br/>
+  o Project: Complaint Management Web Application <br/>
+    - Developed a full-stack Complaint Management Web Application, enabled residents from rural villages to submit complaints related to electricity, water, roads, and transportation. <br/>
+  o Project: Laravel PHP web app framework by building a fully-functional Medium clone. <br/>
+    - Building functionalities like user following and post management. <br/>
+    - Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/>
 
-- <b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b>
-    - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives.
-    - Train Handling and Controlling, Railway Signaling & Communication.
-    - Mechanical & Electrical Troubleshooting.
+- <b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b> <br/>
+    - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
+    - Train Handling and Controlling, Railway Signaling & Communication. <br/>
+    - Mechanical & Electrical Troubleshooting. <br/>
     
-- <b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b>
-  • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank
-    - Using Python, Java and Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc.
-  • Project: Migration of Banking APIs from OSB to Google Anthos. Client: ICICI Bank
-    - Working as Application Owner for Google Anthos and conducting migrations of Banking APIs.
-    - Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments.
-    - Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE.
+- <b> Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b> <br/>
+  • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank <br/>
+    - Using Python, Java and Apigee, developing and integrating APIs for ICIC Bank for digital banking services, UPI, retail and corporate internet banking etc. <br/>
+  • Project: Migration of Banking APIs from OSB to Google Anthos. Client: ICICI Bank <br/>
+    - Working as Application Owner for Google Anthos and conducting migrations of Banking APIs. <br/>
+    - Successfully migrated APIs to the Anthos platform, ensuring seamless deployment and optimal performance across hybrid and multi-cloud environments. <br/>
+    - Troubleshooting and resolving Proxy level issues using Traffic Management, Security, Mediation & Extension Policies of APIGEE. <br/>
 
-- <b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b>
-  • Project: ShopTrade Application for shop keepers to sell their product, maintain their products information and can maintain logs for the credits of the customers.
-    - Worked as backend and frontend developer for Web Applications. Using Java, JavaScript, Spring Boot, Spring ORM, Spring MVC, JSP
-    - Creating user registration module, product module, creating functionality with database connectivity and generating reports.
-    - Developed and optimized Java-based applications, implementing Object-Oriented Programming (OOP) principles and design patterns to enhance performance and scalability.
-  • Project: MyShoppingCart an e-commerce website focused on wide range of product categories such as consumer electronics, fashion, home essentials and Ayurveda products.
-    - Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL.
-    - Creating master pages, creating login and registration module, creating functionality with database connectivity. 
+- <b> Java Developer - Softtronix IT Solution (Sep 2018 – Nov 2020)</b> <br/>
+  • Project: ShopTrade Application for shop keepers to sell their product, maintain their products information and can maintain logs for the credits of the customers. <br/>
+    - Worked as backend and frontend developer for Web Applications. Using Java, JavaScript, Spring Boot, Spring ORM, Spring MVC, JSP <br/>
+    - Creating user registration module, product module, creating functionality with database connectivity and generating reports. <br/>
+    - Developed and optimized Java-based applications, implementing Object-Oriented Programming (OOP) principles and design patterns to enhance performance and scalability. <br/>
+  • Project: MyShoppingCart an e-commerce website focused on wide range of product categories such as consumer electronics, fashion, home essentials and Ayurveda products. <br/>
+    - Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL. <br/>
+    - Creating master pages, creating login and registration module, creating functionality with database connectivity. <br/>
 
 - <b> CNC Machine Operator - Jayaswal Neco Industries Lmt. (Sep 2018 – Nov 2020)</b>
   - Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards.
