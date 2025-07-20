@@ -10,20 +10,26 @@
   - Apigee Development, Google Anthos <br/>
   - Frontend: PHP, Laravel, HTML, CSS3, Bootstrap <br/>
   - Databases: MySQL, PostgreSQL, SQLite, Django ORM/SQLAlchemy <br/>
+
+  <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
   
 <h2>💼 Work Highlights</h2>
 <b> Python Full Stack Developer </b> <br/>
     • Project: E-commerce Website <br/>
-      - Worked on eCommerce platform using Python (Django) for a seamless shopping experience. <br/>
-      - Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2. <br/>
-      - Used PostgreSQL with Django ORM for relational data modeling and complex queries. <br/>
+      &nbsp;- Worked on eCommerce platform using Python (Django) for a seamless shopping experience. <br/>
+      &nbsp;- Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2. <br/>
+      &nbsp;- Used PostgreSQL with Django ORM for relational data modeling and complex queries. <br/>
     • Project: Complaint Management Web Application <br/>
-      - Developed a full-stack Complaint Management Web Application, enabled residents from rural villages to submit complaints related to electricity, water, roads, and transportation. <br/>
+      &nbsp;- Developed a full-stack Complaint Management Web Application, enabled residents from rural villages to submit complaints related to electricity, water, roads, and transportation. <br/>
     • Project: Laravel PHP web app framework by building a fully-functional Medium clone. <br/>
-      - Building functionalities like user following and post management. <br/>
-      - Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/>
+      &nbsp;- Building functionalities like user following and post management. <br/>
+      &nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/> 
 
-- <b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b>
+<b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b>
     - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
     - Train Handling and Controlling, Railway Signaling & Communication. <br/>
     - Mechanical & Electrical Troubleshooting. <br/>
