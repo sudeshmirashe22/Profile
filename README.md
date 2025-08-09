@@ -1,5 +1,7 @@
-<h1>Hi, I'm Sudesh! </h1><br/>
-  <a href="https://github.com/sudeshmirashe22?tab=repositories">Full Stack Developer - Repository</a> <br/> <a href="https://www.linkedin.com/in/sudesh-mirashe"> LinkedIn Profile </a>
+<h1> Hi, I'm Sudesh! </h1><br/>
+<h2> Full Stack Developer </h2><br/>
+     • <a href="https://github.com/sudeshmirashe22?tab=repositories">Click here check Repository</a> <br/> 
+     • <a href="https://www.linkedin.com/in/sudesh-mirashe">Click here for LinkedIn Profile </a>
 
 <h2>👨‍💻 About Me</h2>
 <b> Results-driven Software Developer with 6+ years of diverse experience in IT, spanning backend development, API integration. Transitioned into a Python-focused role, leveraging Django for web applications and secure authentication workflows. Passionate about building scalable software, adept at blending hands-on engineering skills with coding expertise across Python, PHP, and Java. </b>
