@@ -17,7 +17,7 @@
       &nbsp;&nbsp;- Ensured 99.9% message delivery reliability using Kafka topics and consumer groups <br/>
     •	Project:  E-Commerce Pet Shop <a href = ""> Click Here</a><br/>
       &nbsp;&nbsp;- Created a scalable online pet shop using Django REST API for inventory, cart, and checkout workflows. <br/>
-      &nbsp;&nbsp;- o	Integrated a real-time chatbot using Django Channels and Redis for instant customer assistance. <br/>
+      &nbsp;&nbsp;- o	Integrated a real-time chatbot using Django Channels and Redis for instant customer assistance. <a href = "https://github.com/sudeshmirashe22/ChatappUsingDjangoChannelsAndWebsockets"> Click Here</a><br/>
     • Project: E-commerce Website <a href = "https://github.com/sudeshmirashe22/ecommerce-site-using-Django"> Click Here</a><br/>
       &nbsp;&nbsp;- Worked on eCommerce platform using Python (Django), DRF, and JavaScript for a seamless shopping experience. <br/>
       &nbsp;&nbsp;- Implemented core features including user login/registration, product catalog, shopping cart. <br/>
