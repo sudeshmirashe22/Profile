@@ -5,21 +5,23 @@
 <b> Results-driven Software Developer with 6+ years of diverse experience in IT, spanning backend development, API integration. Transitioned into a Python-focused role, leveraging Django for web applications and secure authentication workflows. Passionate about building scalable software, adept at blending hands-on engineering skills with coding expertise across Python, PHP, and Java. </b>
 
 <h2>🤖 Skills</h2>
-  - Python (Core, OOPs, Functional), Docker, CI/CD pipeline <br/>
-  - Python Frameworks: Django, Flask, FastAPI <br/>
+  - •	Python (Core, OOPs, Functional), Docker, Django, Django Rest Framework, Django Channels, Redis, Kafka and Zookeeper <br/>
   - Apigee Development, Google Anthos <br/>
-  - Frontend: PHP, Laravel, HTML, CSS3, Bootstrap <br/>
-  - Databases: MySQL, PostgreSQL, SQLite, Django ORM/SQLAlchemy <br/>
+  - Frontend: PHP, JavaScript, HTML, CSS3, Bootstrap <br/>
+  - Databases: MySQL, SQLite, Django ORM/SQLAlchemy <br/>
  
 <h2>💼 Work Highlights</h2>
 <b>🔧 Python Full Stack Developer </b> <br/>
+    •	Project:  Real-Time Delivery Vehicle Tracking System <a href = "https://github.com/sudeshmirashe22/DeviceTrackingUsingDjangoRESTFrameworkAndKafka"> Click Here</a><br/>
+      &nbsp;&nbsp;- Built a scalable real-time truck tracking platform using Django, Django Rest Framework, Kafka, Zookeeper, and Google Maps API. <br/>
+      &nbsp;&nbsp;- Ensured 99.9% message delivery reliability using Kafka topics and consumer groups <br/>
+    •	Project:  E-Commerce Pet Shop <a href = ""> Click Here</a><br/>
+      &nbsp;&nbsp;- Created a scalable online pet shop using Django REST API for inventory, cart, and checkout workflows. <br/>
+      &nbsp;&nbsp;- o	Integrated a real-time chatbot using Django Channels and Redis for instant customer assistance. <br/>
     • Project: E-commerce Website <a href = "https://github.com/sudeshmirashe22/ecommerce-site-using-Django"> Click Here</a><br/>
-      &nbsp;&nbsp;- Worked on eCommerce platform using Python (Django) for a seamless shopping experience. <br/>
-      &nbsp;&nbsp;- Implemented core features including user login/registration, product catalog, shopping cart, payment integration, deployment on AWS ec2. <br/>
-      &nbsp;&nbsp;- Used PostgreSQL with Django ORM for relational data modeling and complex queries. <br/>
-    • Project: Laravel PHP web app framework by building a fully-functional Medium clone. <a href = "https://github.com/sudeshmirashe22/Medium-clone-using-Laravel/tree/main"> Click Here</a><br/>
-      &nbsp;&nbsp;- Building functionalities like user following and post management. <br/>
-      &nbsp;&nbsp;- Using Laravel concepts like including routing, authentication, database operations, and Blade templating while creating a real-world application with social features <br/><br/> 
+      &nbsp;&nbsp;- Worked on eCommerce platform using Python (Django), DRF, and JavaScript for a seamless shopping experience. <br/>
+      &nbsp;&nbsp;- Implemented core features including user login/registration, product catalog, shopping cart. <br/>
+      &nbsp;&nbsp;- Used MySQL with Django ORM for relational data modeling and complex queries. <br/>
 
 <b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b><br/> 
     - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
@@ -43,7 +45,7 @@
     &nbsp;&nbsp;- Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL. <br/>
     &nbsp;&nbsp;- Creating master pages, creating login and registration module, creating functionality with database connectivity. <br/>
 
-<b> CNC Operator - Jayaswal Neco Industries Lmt. (Sep 2018 – Nov 2020)</b><br/>
+<b> CNC MAchine - Jayaswal Neco Industries Lmt. (Sep 2018 – Nov 2020)</b><br/>
   &nbsp;&nbsp;- Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards.<br/>
   &nbsp;&nbsp;- Conducted quality control checks using calipers, micrometers, and gauges, verifying tolerances and making real-time adjustments to meet specifications.
 
