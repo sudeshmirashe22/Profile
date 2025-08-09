@@ -1,4 +1,4 @@
-<h1> Hi, I'm Sudesh! </h1> (<h2> Full Stack Developer </h2>)
+<h1> Hi, I'm Sudesh! <br/> <h2> Full Stack Developer </h2> </h1> 
      • <a href="https://github.com/sudeshmirashe22?tab=repositories">Click here check Repository</a> <br/> 
      • <a href="https://www.linkedin.com/in/sudesh-mirashe">Click here for LinkedIn Profile </a>
 
