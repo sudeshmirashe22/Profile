@@ -12,10 +12,10 @@ in AWS and Azure environments, configuring firewalls like Palo Alto and Zscaler,
 solutions such as Proofpoint, Symantec, and Mimecast. </b>
 
 <h2>🤖 Key Skills</h2>
-  •	Experienced in SIEM tools like IBM QRadar, Splunk, and Microsoft Sentinel for threat detection, log analysis, and incident response.
-  •	Skilled in endpoint and network security using CrowdStrike Falcon, SentinelOne, Carbon Black, Microsoft Defender ATP, Palo Alto, and Zscaler. 
-  •	Proficient in cloud and email security management across AWS, Azure, Proofpoint, Mimecast, and Symantec.
-  •	Strong in incident handling, vulnerability assessment, and threat analysis using tools like Qualys, Nessus, and Rapid7.
+  •	Experienced in SIEM tools like IBM QRadar, Splunk, and Microsoft Sentinel for threat detection, log analysis, and incident response.<br/>
+  •	Skilled in endpoint and network security using CrowdStrike Falcon, SentinelOne, Carbon Black, Microsoft Defender ATP, Palo Alto, and Zscaler.<br/> 
+  •	Proficient in cloud and email security management across AWS, Azure, Proofpoint, Mimecast, and Symantec.<br/>
+  •	Strong in incident handling, vulnerability assessment, and threat analysis using tools like Qualys, Nessus, and Rapid7.<br/>
   •	Hands-on experience with ServiceNow, Jira, and Linux environments, ensuring smooth SOC operations and workflow automation. <br/>
  
 <h2>💼 Work Highlights</h2>
@@ -26,7 +26,7 @@ solutions such as Proofpoint, Symantec, and Mimecast. </b>
     •     Strengthened cloud and network security by analyzing AWS and Azure logs, and configuring Palo Alto and Zscaler firewalls for enhanced protection.<br/>
     •     Enhanced email security and phishing defense using Proofpoint, Mimecast, and Symantec, reducing false positives and improving response time.<br/>
     •     Actively supported audits, upgrades, and migration projects, ensuring compliance and smooth SIEM platform transitions.<br/>
-    •     Demonstrated strong collaboration with SOC teams and continuous learning in cybersecurity technologies to improve response workflows and operational efficiency.<br/>
+    •     Demonstrated strong collaboration with SOC teams and continuous learning in cybersecurity technologies to improve response workflows and operational efficiency.<br/><br/>
     
 <b>🌐 Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b><br/>
   • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank
