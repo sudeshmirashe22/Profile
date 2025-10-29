@@ -45,7 +45,7 @@ solutions such as Proofpoint, Symantec, and Mimecast. </b>
     &nbsp;&nbsp;- Developing Web Applications using in Advance Java, SpringBoot, Hibernate, Javascript and database language as SQL. <br/>
     &nbsp;&nbsp;- Creating master pages, creating login and registration module, creating functionality with database connectivity. <br/>
 
-<b> CNC Machine - Jayaswal Neco Industries Lmt. (Sep 2018 – Nov 2020)</b><br/>
+<b> CNC Machine - Jayaswal Neco Industries Lmt. ((Sep 2016 - Apr 2018)</b><br/>
   &nbsp;&nbsp;- Operated CNC machines on Cylinder Heads to produce precision surface for gas sealing and precision hole making for valve guides ensuring adherence to technical blueprints and quality standards.<br/>
   &nbsp;&nbsp;- Conducted quality control checks using calipers, micrometers, and gauges, verifying tolerances and making real-time adjustments to meet specifications.
 
