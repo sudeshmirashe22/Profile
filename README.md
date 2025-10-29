@@ -3,31 +3,30 @@
      • <a href="https://www.linkedin.com/in/sudesh-mirashe">Click here for LinkedIn Profile </a>
 
 <h2>👨‍💻 About Me</h2>
-<b> Results-driven Software Developer with 6+ years of diverse experience in IT, spanning backend development, API integration. Transitioned into a Python-focused role, leveraging Django for web applications and secure authentication workflows. Passionate about building scalable software, adept at blending hands-on engineering skills with coding expertise across Python, PHP, and Java. </b>
+<b> Experienced SOC Analyst with 4 years of experience and adept at managing security incidents using tools like IBM
+QRadar, Splunk, Sentinel, SentinelOne, Carbon Black, Falcon CrowdStrike, Microsoft Defender ATP, Palo Alto firewalls,
+Proofpoint, Mimecast, Qualys Guard, Symantec Endpoint Protection, TrendMicro, and McAfee. Skilled in network traffic
+analysis, event log review, and system monitoring. Proficient in ServiceNow and Jira for incident tracking. Dedicated to
+staying updated on emerging threats and improving incident response workflows. Experienced in managing cloud security
+in AWS and Azure environments, configuring firewalls like Palo Alto and Zscaler, and administering email security
+solutions such as Proofpoint, Symantec, and Mimecast. </b>
 
-<h2>🤖 Skills</h2>
-  - •	Python (Core, OOPs, Functional), Docker, Django, Django Rest Framework, Django Channels, Redis, Kafka and Zookeeper <br/>
-  - Apigee Development, Google Anthos <br/>
-  - Frontend: PHP, JavaScript, HTML, CSS3, Bootstrap <br/>
-  - Databases: MySQL, SQLite, Django ORM/SQLAlchemy <br/>
+<h2>🤖 Key Skills</h2>
+  •	Experienced in SIEM tools like IBM QRadar, Splunk, and Microsoft Sentinel for threat detection, log analysis, and incident response.
+  •	Skilled in endpoint and network security using CrowdStrike Falcon, SentinelOne, Carbon Black, Microsoft Defender ATP, Palo Alto, and Zscaler. 
+  •	Proficient in cloud and email security management across AWS, Azure, Proofpoint, Mimecast, and Symantec.
+  •	Strong in incident handling, vulnerability assessment, and threat analysis using tools like Qualys, Nessus, and Rapid7.
+  •	Hands-on experience with ServiceNow, Jira, and Linux environments, ensuring smooth SOC operations and workflow automation. <br/>
  
 <h2>💼 Work Highlights</h2>
-<b>🔧 Python Full Stack Developer </b> <br/>
-    •	Project:  Real-Time Delivery Vehicle Tracking System <a href = "https://github.com/sudeshmirashe22/DeviceTrackingUsingDjangoRESTFrameworkAndKafka"> Click Here</a><br/>
-      &nbsp;&nbsp;- Built a scalable real-time truck tracking platform using Django, Django Rest Framework, Kafka, Zookeeper, and Google Maps API. <br/>
-      &nbsp;&nbsp;- Ensured 99.9% message delivery reliability using Kafka topics and consumer groups <br/>
-    •	Project:  E-Commerce Pet Shop <a href = ""> Click Here</a><br/>
-      &nbsp;&nbsp;- Created a scalable online pet shop using Django REST API for inventory, cart, and checkout workflows. <br/>
-      &nbsp;&nbsp;- o	Integrated a real-time chatbot using Django Channels and Redis for instant customer assistance. <a href = "https://github.com/sudeshmirashe22/ChatappUsingDjangoChannelsAndWebsockets"> Click Here</a><br/>
-    • Project: E-commerce Website <a href = "https://github.com/sudeshmirashe22/ecommerce-site-using-Django"> Click Here</a><br/>
-      &nbsp;&nbsp;- Worked on eCommerce platform using Python (Django), DRF, and JavaScript for a seamless shopping experience. <br/>
-      &nbsp;&nbsp;- Implemented core features including user login/registration, product catalog, shopping cart. <br/>
-      &nbsp;&nbsp;- Used MySQL with Django ORM for relational data modeling and complex queries. <br/>
-
-<b> Assistant Loco Pilot - Indian Railways (Feb 2022 – Jan 2024) </b><br/> 
-    - Assisting Loco Pilot in safe driving and controlling of goods trains and locomotives. <br/>
-    - Train Handling and Controlling, Railway Signaling & Communication. <br/>
-    - Mechanical & Electrical Troubleshooting. <br/>
+<b>🔧 Security Analyst | SOC Analyst - NTT DATA (Feb 2022 – Till Date) </b><br/>
+    •	Managed and optimized IBM QRadar SIEM for over 15 global clients across industries like banking, healthcare, automotive, and logistics, ensuring effective log visibility and threat detection. <br/>
+    •	Led log source integrations, rule fine-tuning, and SIEM health monitoring, improving detection accuracy and system reliability.<br/>
+    •     Investigated and resolved critical (P1) security incidents using tools such as Splunk, Sentinel, SentinelOne, CrowdStrike Falcon, and Microsoft Defender ATP.<br/>
+    •     Strengthened cloud and network security by analyzing AWS and Azure logs, and configuring Palo Alto and Zscaler firewalls for enhanced protection.<br/>
+    •     Enhanced email security and phishing defense using Proofpoint, Mimecast, and Symantec, reducing false positives and improving response time.<br/>
+    •     Actively supported audits, upgrades, and migration projects, ensuring compliance and smooth SIEM platform transitions.<br/>
+    •     Demonstrated strong collaboration with SOC teams and continuous learning in cybersecurity technologies to improve response workflows and operational efficiency.<br/>
     
 <b>🌐 Apigee Developer - Velociter Solutions (Dec 2020 – Feb 2022)</b><br/>
   • Project: Creating APIs for Core Banking Competencies, Client: ICICI bank
