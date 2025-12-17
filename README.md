@@ -17,6 +17,18 @@ solutions such as Proofpoint, Symantec, and Mimecast. </b>
   •	Proficient in cloud and email security management across AWS, Azure, Proofpoint, Mimecast, and Symantec.<br/>
   •	Strong in incident handling, vulnerability assessment, and threat analysis using tools like Qualys, Nessus, and Rapid7.<br/>
   •	Hands-on experience with ServiceNow, Jira, and Linux environments, ensuring smooth SOC operations and workflow automation. <br/>
+
+<h2>🎓 Professional Certifications</h2>
+
+Below is a curated list of my completed cybersecurity and information security certifications, included here as part of my GitHub profile in a resume-style format.
+
+Course Name	Platform	Certificate ID	Certificate Link <br/>
+Certified Information Systems Security Professional (CISSP)	Simplilearn	8752538	<a href="[https://github.com/sudeshmirashe22?tab=repositories]https://certificates.simplicdn.net/share/8752539_17987261765953629269.pdf">View Certificate</a> <br/> 
+CompTIA Security+ (SY0-701)	Simplilearn	8187062  <a href="https://github.com/sudeshmirashe22?tab=repositories">View Certificate</a> <br/>
+C|EH v13 – Certified Ethical Hacker	Simplilearn	7590931	<a href="https://github.com/sudeshmirashe22?tab=repositories">View Certificate</a> <br/> 
+SC-900: Microsoft Security, Compliance & Identity	Udemy	UC-b1dd4182-7679-4d41-a6de-b1b2392621a9	<a href="https://github.com/sudeshmirashe22?tab=repositories">View Certificate</a> <br/> 
+Cybersecurity Threat Hunting for SOC Analysts	Udemy	UC-a92aa03d-363f-4062-8da1-f22b27715a1d	<a href="https://github.com/sudeshmirashe22?tab=repositories">View Certificate</a> <br/> 
+Website Hacking / Penetration Testing	Udemy	UC-c8278afc-d1de-4d55-910e-78647d964d2e	<a href="https://github.com/sudeshmirashe22?tab=repositories">View Certificate</a> <br/> 
  
 <h2>💼 Work Highlights</h2>
 <b>🔧 Security Analyst | SOC Analyst - NTT DATA (Feb 2022 – Till Date) </b><br/>
