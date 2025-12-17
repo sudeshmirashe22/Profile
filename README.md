@@ -20,15 +20,78 @@ solutions such as Proofpoint, Symantec, and Mimecast. </b>
 
 <h2>🎓 Professional Certifications</h2>
 
-Below is a curated list of my completed cybersecurity and information security certifications, included here as part of my GitHub profile in a resume-style format.
-
-Course Name	Platform	Certificate ID	Certificate Link <br/>
-Certified Information Systems Security Professional (CISSP)	Simplilearn	8752538	<a href="https://certificates.simplicdn.net/share/8752539_17987261765953629269.pdf">View Certificate</a> <br/> 
-CompTIA Security+ (SY0-701)	Simplilearn	8187062  <a href="https://certificates.simplicdn.net/share/8187062_17987261744612505277.pdf">View Certificate</a> <br/>
-C|EH v13 – Certified Ethical Hacker	Simplilearn	7590931	<a href="https://certificates.simplicdn.net/share/7590931_17987261754036965086.pdf">View Certificate</a> <br/> 
-SC-900: Microsoft Security, Compliance & Identity	Udemy	UC-b1dd4182-7679-4d41-a6de-b1b2392621a9	<a href="https://www.udemy.com/certificate/UC-b1dd4182-7679-4d41-a6de-b1b2392621a9/">View Certificate</a> <br/> 
-Cybersecurity Threat Hunting for SOC Analysts	Udemy	UC-a92aa03d-363f-4062-8da1-f22b27715a1d	<a href="https://www.udemy.com/certificate/UC-a92aa03d-363f-4d62-8da1-f22b27715a1d/">View Certificate</a> <br/> 
-Website Hacking / Penetration Testing	Udemy	UC-c8278afc-d1de-4d55-910e-78647d964d2e	<a href="https://www.udemy.com/certificate/UC-c8278afc-d1de-4d55-910e-78647d964d2e/">View Certificate</a> <br/> 
+<table>
+  <thead>
+    <tr>
+      <th>Course Name</th>
+      <th>Platform</th>
+      <th>Certificate ID</th>
+      <th>Certificate Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Certified Information Systems Security Professional (CISSP)</td>
+      <td>Simplilearn</td>
+      <td>8752538</td>
+      <td>
+        <a href="https://certificates.simplicdn.net/share/8752539_17987261765953629269.pdf" target="_blank">
+          View Certificate
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>CompTIA Security+ (SY0-701)</td>
+      <td>Simplilearn</td>
+      <td>8187062</td>
+      <td>
+        <a href="https://certificates.simplicdn.net/share/8187062_17987261744612505277.pdf" target="_blank">
+          View Certificate
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>C|EH v13 – Certified Ethical Hacker</td>
+      <td>Simplilearn</td>
+      <td>7590931</td>
+      <td>
+        <a href="https://certificates.simplicdn.net/share/7590931_17987261754036965086.pdf" target="_blank">
+          View Certificate
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>SC-900: Microsoft Security, Compliance & Identity</td>
+      <td>Udemy</td>
+      <td>UC-b1dd4182-7679-4d41-a6de-b1b2392621a9</td>
+      <td>
+        <a href="https://ude.my/UC-b1dd4182-7679-4d41-a6de-b1b2392621a9" target="_blank">
+          View Certificate
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Cybersecurity Threat Hunting for SOC Analysts</td>
+      <td>Udemy</td>
+      <td>UC-a92aa03d-363f-4062-8da1-f22b27715a1d</td>
+      <td>
+        <a href="https://www.udemy.com/certificate/UC-a92aa03d-363f-4d62-8da1-f22b27715a1d/" target="_blank">
+          View Certificate
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Website Hacking / Penetration Testing</td>
+      <td>Udemy</td>
+      <td>UC-c8278afc-d1de-4d55-910e-78647d964d2e</td>
+      <td>
+        <a href="https://ude.my/UC-c8278afc-d1de-4d55-910e-78647d964d2e" target="_blank">
+          View Certificate
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
  
 <h2>💼 Work Highlights</h2>
 <b>🔧 Security Analyst | SOC Analyst - NTT DATA (Feb 2022 – Till Date) </b><br/>
